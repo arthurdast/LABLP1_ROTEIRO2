@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1565451421 source:a:\arthur\ufpb\lablp1_roteiro2\questao1\main.cpp
+	<iostream>
+	<iostream>
+	<vector>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+
+1565445414 a:\arthur\ufpb\lablp1_roteiro2\questao1\include\pedido.h
+	<iostream>
+	<vector>
+
+1565450373 a:\arthur\ufpb\lablp1_roteiro2\questao1\include\mesaderestaurante.h
+	<iostream>
+	<vector>
+	"Pedido.h"
+
+1565450613 a:\arthur\ufpb\lablp1_roteiro2\questao1\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+
+1565450962 source:a:\arthur\ufpb\lablp1_roteiro2\questao1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	<iostream>
+
+1565445444 source:a:\arthur\ufpb\lablp1_roteiro2\questao1\src\pedido.cpp
+	"Pedido.h"
+	<iostream>
+
+1565450675 source:a:\arthur\ufpb\lablp1_roteiro2\questao1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	<iostream>
+
