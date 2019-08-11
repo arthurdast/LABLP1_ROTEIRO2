@@ -1,6 +1,10 @@
 # depslib dependency file v1.0
-1514140574 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\main.cpp
+1565495008 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\main.cpp
 	<iostream>
+	"Circulo.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"FiguraGeometrica.h"
 
 1565494299 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\src\circulo.cpp
 	"Circulo.h"
