@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1514140574 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\main.cpp
+	<iostream>
+
+1565494299 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\src\circulo.cpp
+	"Circulo.h"
+
+1565494034 a:\arthur\ufpb\lablp1_roteiro2\questao4\include\circulo.h
+	"FiguraGeometrica.h"
+
+1565494650 a:\arthur\ufpb\lablp1_roteiro2\questao4\include\figurageometrica.h
+	<iostream>
+	<string>
+
+1565494281 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\src\quadrado.cpp
+	"Quadrado.h"
+
+1565494193 a:\arthur\ufpb\lablp1_roteiro2\questao4\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1565494303 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\src\triangulo.cpp
+	"Triangulo.h"
+
+1565494244 a:\arthur\ufpb\lablp1_roteiro2\questao4\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1565494659 source:a:\arthur\ufpb\lablp1_roteiro2\questao4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+	<iostream>
+	<string>
+

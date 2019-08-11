@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1565491516 source:a:\arthur\ufpb\lablp1_roteiro2\questao3\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
+1565489770 source:a:\arthur\ufpb\lablp1_roteiro2\questao3\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1565491318 a:\arthur\ufpb\lablp1_roteiro2\questao3\include\funcionario.h
+	<iostream>
+	<string>
+
+1565491621 source:a:\arthur\ufpb\lablp1_roteiro2\questao3\src\consultor.cpp
+	"Consultor.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1565491526 a:\arthur\ufpb\lablp1_roteiro2\questao3\include\consultor.h
+	"Funcionario.h"
+	<iostream>
+	<string>
+

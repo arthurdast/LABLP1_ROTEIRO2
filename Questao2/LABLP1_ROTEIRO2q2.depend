@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1565464671 source:a:\arthur\ufpb\lablp1_roteiro2\questao2\main.cpp
+	<iostream>
+	"Endereco.h"
+	"Pessoa.h"
+
+1565454420 a:\arthur\ufpb\lablp1_roteiro2\questao2\include\endereco.h
+	<iostream>
+
+1565464094 source:a:\arthur\ufpb\lablp1_roteiro2\questao2\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+	<string>
+
+1565464274 source:a:\arthur\ufpb\lablp1_roteiro2\questao2\src\pessoa.cpp
+	"Pessoa.h"
+	"Endereco.h"
+	<iostream>
+	<string>
+
+1565464121 a:\arthur\ufpb\lablp1_roteiro2\questao2\include\pessoa.h
+	"Endereco.h"
+
