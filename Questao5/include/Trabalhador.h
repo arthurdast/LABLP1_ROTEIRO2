@@ -6,7 +6,9 @@ class Trabalhador
 {
     public:
         Trabalhador();
-        virtual float calcularPagamentoSemanal();
+        virtual float calcularPagamentoSemanal(int horas);
+        std::string getNome();
+        float getSalario();
 
     protected:
         std::string nome;

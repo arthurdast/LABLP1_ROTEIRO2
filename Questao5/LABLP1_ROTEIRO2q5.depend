@@ -2,3 +2,34 @@
 1514140574 source:a:\arthur\ufpb\lablp1_roteiro2\questao5\main.cpp
 	<iostream>
 
+1565634392 source:c:\users\aluno\desktop\lp2lab\lablp1_roteiro2\questao5\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabalhadorAssalariado.h"
+	"TrabalhadorPorHora.h"
+
+1565634036 source:c:\users\aluno\desktop\lp2lab\lablp1_roteiro2\questao5\src\trabalhador.cpp
+	"Trabalhador.h"
+	<iostream>
+
+1565634036 c:\users\aluno\desktop\lp2lab\lablp1_roteiro2\questao5\include\trabalhador.h
+	<iostream>
+
+1565634036 source:c:\users\aluno\desktop\lp2lab\lablp1_roteiro2\questao5\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+	"Trabalhador.h"
+	<iostream>
+
+1565634036 c:\users\aluno\desktop\lp2lab\lablp1_roteiro2\questao5\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+	<iostream>
+
+1565634494 source:c:\users\aluno\desktop\lp2lab\lablp1_roteiro2\questao5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+	"Trabalhador.h"
+	<iostream>
+
+1565634036 c:\users\aluno\desktop\lp2lab\lablp1_roteiro2\questao5\include\trabalhadorporhora.h
+	"Trabalhador.h"
+	<iostream>
+

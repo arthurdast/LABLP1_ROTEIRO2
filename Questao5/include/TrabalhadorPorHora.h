@@ -6,7 +6,7 @@
 class TrabalhadorPorHora : public Trabalhador
 {
     public:
-        TrabalhadorPorHora(std::string nome,float salario,float valorDaHora);
+        TrabalhadorPorHora(std::string nome,float valorDaHora);
         float calcularPagamentoSemanal(int horas);
 
     protected:
